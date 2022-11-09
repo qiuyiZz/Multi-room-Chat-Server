@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mime": "^3.0.0",
+    "socket.io": "^4.5.3"
+  },
+  "name": "mod6-group",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "REPLACE-THIS-TEXT-WITH-YOUR-NAME-STUDENT-ID-AND-GITHUB-USERNAME",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse330-fall-2022/module6-group-module6-501375-510687.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cse330-fall-2022/module6-group-module6-501375-510687/issues"
+  },
+  "homepage": "https://github.com/cse330-fall-2022/module6-group-module6-501375-510687#readme"
+}
