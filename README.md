@@ -1,7 +1,3 @@
-# CSE330
-Qiuyi Zhang-501375-qiuyiZz<p>
-Xiao Liang 510687 EliaLiang
-
 http://localhost:3456/
 
 <h3>Room:</h3>
